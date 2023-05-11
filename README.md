@@ -1,7 +1,6 @@
 # VR_Drums
 
-# Demo:
-https://drive.google.com/file/d/1-o_Rrqs1t_0IGXTGnZ61Cx6BJTXU_Hjg/view?usp=sharing
+#Demo: https://drive.google.com/file/d/1-o_Rrqs1t_0IGXTGnZ61Cx6BJTXU_Hjg/view?usp=sharing
 
 This project in hand is based on the VR definition of “creating illusions of another place,
 another body”. The project takes place in an abandoned house in the middle of nowhere
